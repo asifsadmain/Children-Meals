@@ -71,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cup.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Cup.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Cup.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -81,6 +81,23 @@
                 <element signature="e#124#125#0" expanded="true" />
                 <element signature="e#166#167#0" expanded="true" />
                 <element signature="e#200#201#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Crew.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Crew.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+              <folding>
+                <element signature="e#727#728#0" expanded="true" />
+                <element signature="e#755#756#0" expanded="true" />
+                <element signature="e#796#797#0" expanded="true" />
+                <element signature="e#822#823#0" expanded="true" />
+                <element signature="e#863#864#0" expanded="true" />
+                <element signature="e#889#890#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -106,6 +123,7 @@
         <option value="$PROJECT_DIR$/src/IMealBuilder.java" />
         <option value="$PROJECT_DIR$/src/Bag.java" />
         <option value="$PROJECT_DIR$/src/Cup.java" />
+        <option value="$PROJECT_DIR$/src/Crew.java" />
       </list>
     </option>
   </component>
@@ -224,12 +242,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524322713393</updated>
-      <workItem from="1524322717466" duration="370000" />
+      <workItem from="1524322717466" duration="487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="370000" />
+    <option name="totallyTimeSpent" value="487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -333,6 +351,21 @@
             <element signature="e#124#125#0" expanded="true" />
             <element signature="e#166#167#0" expanded="true" />
             <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Crew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding>
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
           </folding>
         </state>
       </provider>
